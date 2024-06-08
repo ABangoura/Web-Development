@@ -1,2 +1,2 @@
 # Web-Development
-Web applications projects.
+Web apps.
